@@ -1,2 +1,2 @@
 # erp
-HAX enterprise management
+HAX enterprise management landing
